@@ -2,4 +2,4 @@
 
 💻 Currently my research topic is Deep Learning Systems and HPC. I am also intereted in CG/3DV.
 
-😀 I enjoy anything unexpected.
+😀 I enjoy expecting everything and anything unexpected.
