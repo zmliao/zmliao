@@ -1,4 +1,4 @@
-📚 I am a research intern in Shanghai AI Lab. I will join the joint PhD program from SJTU and Shanghai AI Lab in Sept 2024.
+📚 I am PhD student in SJTU. And I am interning at Shanghai AI Lab.
 
 💻 Currently my research topic is High Performance Computing. I am also interested in Computer Graphics and 3D Vision. 
 
