@@ -1,1 +1,1 @@
-What a Fuzzy Life！
+What a fuzzy life！
