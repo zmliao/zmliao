@@ -1,2 +1,1 @@
-我 的 梦 想 是 能 吃 到 好 多 好 吃 的
- 
+What a Fuzzy Life！
