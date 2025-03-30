@@ -1,1 +1,1 @@
-Ignore the gaze and the scale!
+Ignore the scale!
