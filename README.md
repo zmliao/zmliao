@@ -1,1 +1,1 @@
-I am PhD student in joint program from SJTU and Shanghai AI lab. My research interest in HPC applied in Computer Graphics, with a particular interest in GPU Acceleration for rendering, reconstruction and simulation.
+I am PhD student in joint program from SJTU and Shanghai AI lab. My research interest includes HPC applied in Computer Graphics, with a particular interest in GPU Acceleration for rendering, reconstruction and simulation.
